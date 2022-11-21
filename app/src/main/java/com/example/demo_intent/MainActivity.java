@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
     Button button;
     EditText editText;
-
+//Input truyen 1 url khi submit se chuyen den url do
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
